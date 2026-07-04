@@ -1,1 +1,3 @@
 #안녕하세요 유강현입니다
+# 안녕하세요 유강현입니다
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-000000?style=flat&logo=embedded&logoColor=white) ![Firmware](https://img.shields.io/badge/Firmware-4G4G4G?style=flat) ![STM32](https://img.shields.io/badge/STM32-032347?style=flat&logo=stmicroelectronics&logoColor=white)
