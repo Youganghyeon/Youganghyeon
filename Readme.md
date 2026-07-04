@@ -20,7 +20,7 @@ An engineering student exploring the field of Embedded Systems and Firmware Deve
 
 ### 🚁 STM32-based Drone Flight Controller (2026)
 > **Role:** Personal Project  
-> **Key Achieve:** Performance profiling and architecture refactoring for enhanced communication reliability.
+> **Key Achieve:** Performance profiling and architecture refactoring
 
 ### 🎮 FPGA-based Tetris (2026)
 > **Role:** Team Project (ZedBoard / Xilinx Zynq-7000)  
