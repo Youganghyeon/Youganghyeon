@@ -18,11 +18,6 @@ An engineering student exploring the field of Embedded Systems and Firmware Deve
 
 ## 🚀 Projects (2024 → 2026)
 
-### 🔋 Integrated Vehicle Logging System (Formula Competition, 2025)
-> **Role:** Electronics Team Lead  
-> **Key Achieve:** Replaced subjective driver feedback with objective telemetry data, achieving zero packet loss.
----
-
 ### 🚁 STM32-based Drone Flight Controller (2026)
 > **Role:** Personal Project  
 > **Key Achieve:** Performance profiling and architecture refactoring for enhanced communication reliability.
@@ -31,7 +26,10 @@ An engineering student exploring the field of Embedded Systems and Firmware Deve
 > **Role:** Team Project (ZedBoard / Xilinx Zynq-7000)  
 > **Key Achieve:** Hardware-level game logic design with zero-cycle delay.
 ---
-
+### 🔋 Integrated Vehicle Logging System (Formula Competition, 2025)
+> **Role:** Electronics Team Lead  
+> **Key Achieve:** Replaced subjective driver feedback with objective telemetry data, achieving zero packet loss.
+---
 ### 🔌 Wiring Harness Redesign (Formula Car, 2024)
 > **Role:** Electronics Team Member  
 > **Key Achieve:** Learned about engine wiring layouts and achieved vehicle weight reduction.
